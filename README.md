@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+<img src="https://github.com/shivanigupta19/OmbreAssignment/blob/main/flutter_02.png?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 This project is a starting point for a Flutter application.
 
