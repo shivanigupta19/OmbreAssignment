@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85911741082",
+    "firebase_url": "https://ombreassignment.firebaseio.com",
+    "project_id": "ombreassignment",
+    "storage_bucket": "ombreassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85911741082:android:7f5c27c9f355e873007523",
+        "android_client_info": {
+          "package_name": "com.example.OmbreAssignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85911741082-mjpakh44jh24m7ee38j7dfb9slrf0468.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvcJCbEG1gh5PZK5EAJfgGbvohYNZ27A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85911741082-mjpakh44jh24m7ee38j7dfb9slrf0468.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
